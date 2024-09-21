@@ -1,1 +1,1 @@
-# Média da notas dos alunos
+# Média das notas dos alunos
